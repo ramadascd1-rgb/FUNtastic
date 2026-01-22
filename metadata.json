@@ -1,0 +1,8 @@
+{
+  "name": "FUNtastic",
+  "description": "A vibrant social playground where global fun meets next-gen AI. Create surreal images, generate cinematic videos, and chat with your AI Buddy in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
